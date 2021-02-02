@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: The Cognito Book
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >
+      ### Everything you wanted to know about AWS Cognito ... and maybe a little
+      more.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
